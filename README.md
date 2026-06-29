@@ -38,7 +38,10 @@ AI_PDF_QA_RAG/
 ├── requirements.txt
 ├── .env
 ├── README.md
-└── sample.pdf
+|__.gitignore
+|___Output.png
+
+
 ```
 
 ## 📌 How It Works
@@ -63,8 +66,11 @@ AI_PDF_QA_RAG/
 
 ---
 
+
+
+
 ## 👨‍💻 Author
 
-**Arun Kumar T**
+Arun Kumar T
 
 If you found this project useful, feel free to ⭐ the repository.
