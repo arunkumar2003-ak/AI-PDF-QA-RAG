@@ -68,13 +68,13 @@ AI_PDF_QA_RAG/
 
 
 ###home_image 
-![Home Page](home.png)
+![Home Page](home_page.png)
 
 ### PDF Upload
-![PDF Upload](upload.png)
+![PDF Upload](uploaded_pdf.png)
 
 ### Generated Answer
-![Generated Answer](output.png)
+![Generated Answer](output_page.png)
 
 
 
