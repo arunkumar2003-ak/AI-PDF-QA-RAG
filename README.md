@@ -67,6 +67,16 @@ AI_PDF_QA_RAG/
 ---
 
 
+###home_image 
+![Home Page](home.png)
+
+### PDF Upload
+![PDF Upload](upload.png)
+
+### Generated Answer
+![Generated Answer](output.png)
+
+
 
 
 ## 👨‍💻 Author
