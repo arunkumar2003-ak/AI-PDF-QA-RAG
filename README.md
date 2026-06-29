@@ -74,7 +74,7 @@ AI_PDF_QA_RAG/
 ![PDF Upload](uploaded_pdf.png)
 
 ### Generated Answer
-![Generated Answer](output_page.png)
+![Generated Answer](Output.png)
 
 
 
