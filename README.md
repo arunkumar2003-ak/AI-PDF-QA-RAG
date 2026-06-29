@@ -2,7 +2,12 @@
 
 An AI-powered PDF Question Answering System built using **Python, Streamlit, LangChain, FAISS, and Google Gemini**. The application allows users to upload PDF documents and ask questions about their content. It uses a **Retrieval-Augmented Generation (RAG)** pipeline to retrieve the most relevant document sections before generating accurate answers.
 
----
+
+
+## 🎯 Project Overview
+
+This project implements a Retrieval-Augmented Generation (RAG) pipeline that enables users to interact with PDF documents through natural language questions. Relevant document chunks are retrieved using FAISS and LangChain before generating responses with Google Gemini.
+
 
 ## 🚀 Features
 
@@ -29,6 +34,40 @@ An AI-powered PDF Question Answering System built using **Python, Streamlit, Lan
 
 ---
 
+
+## ⚙️ Installation
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/AI-PDF-QA-RAG
+```
+
+### 2. Navigate to the project folder
+
+```bash
+cd AI-PDF-QA-RAG
+```
+
+### 3. Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Create a `.env` file
+
+```env
+GOOGLE_API_KEY=YOUR_GEMINI_API_KEY
+```
+
+### 5. Run the application
+
+```bash
+streamlit run app.py
+```
+
+
 ## 📂 Project Structure
 
 ```text
@@ -36,7 +75,7 @@ AI_PDF_QA_RAG/
 │
 ├── app.py
 ├── requirements.txt
-├── .env
+├── Output.png
 ├── README.md
 |__.gitignore
 |___Output.png
@@ -66,6 +105,8 @@ AI_PDF_QA_RAG/
 
 ---
 
+
+## 📷 Screenshots
 
 ###home_image 
 ![Home Page](home_page.png)
