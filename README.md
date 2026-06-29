@@ -40,7 +40,7 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline that ena
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/AI-PDF-QA-RAG
+git clone https://github.com/arunkumar2003-ak /AI-PDF-QA-RAG
 ```
 
 ### 2. Navigate to the project folder
